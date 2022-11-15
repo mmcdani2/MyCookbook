@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCookbook</string>
+    <string name="recipe_name_hint">Enter Recipe Name</string>
+    <string name="type_hint">Enter Type</string>
+    <string name="ingredient_hint">Enter Ingredients</string>
+    <string name="instruction_hint">Enter Instructions</string>
+    <string name="save_text">SAVE</string>
+    <string name="empty">Enter a Recipe</string>
+    <string name="description_text">Plus button icon</string>
+    <string name="update_text">UPDATE</string>
+    <string name="delete_text">DELETE</string>
+</resources>
