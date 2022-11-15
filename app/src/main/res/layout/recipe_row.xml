@@ -11,7 +11,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:elevation="@dimen/elevation"
-        app:cardBackgroundColor="#BB86FC"
+        app:cardBackgroundColor="@color/purple_200"
         app:cardCornerRadius="@dimen/elevation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,6 +31,7 @@
                 android:gravity="center"
                 android:padding="@dimen/general_padding"
                 android:text="TextView"
+                android:textColor="@color/black"
                 android:textSize="34sp" />
 
             <TextView
